@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Pdf Viewer</string>
+
+    <string name="about_us">About us</string>
+    <string name="privacy">Privacy</string>
+    <string name="terms_condition">Terms &amp; Condition</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="setting">Setting</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="recent">Recent</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="share">Share</string>
+    <string name="go_to">Go to</string>
+    <string name="feedback">Feedback</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="remove">Remove</string>
+    <string name="password">Password</string>
+    <string name="ok">OK</string>
+    <string name="rate_us">Rate us</string>
+    <string name="go_to_page">Go to Page</string>
+    <string name="more_apps">More Apps</string>
+
+    <string name="problem_in_app">What\'s the problem in this App</string>
+
+    <string name="text_view_about">Hello, friends My name is Naushad and i am the creator of this app.
+    I am an android developer and also a web developer. I live in New Delhi,India.
+        If you like this App, So Please Rate this app 5 Star on google play store.
+        It helps me to get Motivation to create or upgrade the applications
+         </string>
+    <string name="text_view_about2">You can contact me on E-mail and give your Suggestions.\n E-mail : hayatulerum@gmail.com </string>
+
+
+    <string name="rate_dialog_title">Rate This App</string>
+    <string name="rate_dialog_message">If this application is very useful for you so please give it 5 Star on Google play Store</string>
+    <string name="rate_dialog_ok">Rate it Now</string>
+    <string name="rate_dialog_cancel">Later</string>
+    <string name="rate_dialog_no">No Thanks</string>
+    <string name="flipper">Flipper</string>
+
+</resources>

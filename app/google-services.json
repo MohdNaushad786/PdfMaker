@@ -1,0 +1,302 @@
+{
+  "project_info": {
+    "project_number": "725771821376",
+    "firebase_url": "https://android-apps-hayatulerum.firebaseio.com",
+    "project_id": "android-apps-hayatulerum",
+    "storage_bucket": "android-apps-hayatulerum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725771821376:android:8af2b7c34c023924",
+        "android_client_info": {
+          "package_name": "com.computerscience.erum.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725771821376-orvegg0140on5783accohs53bo20gsap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.computerscience.erum.android",
+            "certificate_hash": "3cfcd0620eda294d91a79f9acac692b58a132d47"
+          }
+        },
+        {
+          "client_id": "725771821376-0h6692plkednj5826pb1di6h2ansadth.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.computerscience.erum.android",
+            "certificate_hash": "43e0a8a84b0252067881987afc0c55ddcba75bb2"
+          }
+        },
+        {
+          "client_id": "725771821376-j8f0a20g4i878tsea0cl4atbcgqvief7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.computerscience.erum.android",
+            "certificate_hash": "564087182987df04f11965ba55ed7bc020f0dee4"
+          }
+        },
+        {
+          "client_id": "725771821376-bbvomtlepciri7u6mbn9l894cbpll2h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkDSkurGjTRKfrKWeVBEQa42c2-e5ivTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725771821376-bbvomtlepciri7u6mbn9l894cbpll2h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725771821376:android:5adaea86ba0d0138",
+        "android_client_info": {
+          "package_name": "com.holyquransharif.erum.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725771821376-l471t2oq2lkih0s4gfaqa4eso335ucgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.holyquransharif.erum.android",
+            "certificate_hash": "9f6743d9c2aba319cb1248c10b5313f0418ddd1f"
+          }
+        },
+        {
+          "client_id": "725771821376-elmi88nklsf4eb3cvbbkvau5ro1vi6ij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.holyquransharif.erum.android",
+            "certificate_hash": "3cfcd0620eda294d91a79f9acac692b58a132d47"
+          }
+        },
+        {
+          "client_id": "725771821376-bbvomtlepciri7u6mbn9l894cbpll2h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkDSkurGjTRKfrKWeVBEQa42c2-e5ivTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725771821376-bbvomtlepciri7u6mbn9l894cbpll2h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725771821376:android:fe586e1a4dca8769",
+        "android_client_info": {
+          "package_name": "com.indianrailway.pnrstatus.trainstatus.erum.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725771821376-5s7sps0uidhs2o5sguergiv120bvk2th.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indianrailway.pnrstatus.trainstatus.erum.android",
+            "certificate_hash": "157769109e1372e4292a1a4c941880015f04307c"
+          }
+        },
+        {
+          "client_id": "725771821376-09ohc8n39qdspnunu57bf7elhdceo5gi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indianrailway.pnrstatus.trainstatus.erum.android",
+            "certificate_hash": "564087182987df04f11965ba55ed7bc020f0dee4"
+          }
+        },
+        {
+          "client_id": "725771821376-bbvomtlepciri7u6mbn9l894cbpll2h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkDSkurGjTRKfrKWeVBEQa42c2-e5ivTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725771821376-bbvomtlepciri7u6mbn9l894cbpll2h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725771821376:android:62658b654bb27dfe",
+        "android_client_info": {
+          "package_name": "com.mathformula.erum.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725771821376-v7b00sc2mrqm1qbv009ji30p1iubdh2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mathformula.erum.android",
+            "certificate_hash": "af60704c1d61f3f9cffe3cb61f0bf50d38c958ad"
+          }
+        },
+        {
+          "client_id": "725771821376-pi6ajle6l6b9u9r4fect2b43e4orv9s9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mathformula.erum.android",
+            "certificate_hash": "564087182987df04f11965ba55ed7bc020f0dee4"
+          }
+        },
+        {
+          "client_id": "725771821376-bbvomtlepciri7u6mbn9l894cbpll2h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkDSkurGjTRKfrKWeVBEQa42c2-e5ivTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725771821376-bbvomtlepciri7u6mbn9l894cbpll2h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725771821376:android:cf594671494169ee",
+        "android_client_info": {
+          "package_name": "com.ncertbooks.erum.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725771821376-uivh3s8aup3to3v2s3ps9u1pedohom06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ncertbooks.erum.android",
+            "certificate_hash": "3cfcd0620eda294d91a79f9acac692b58a132d47"
+          }
+        },
+        {
+          "client_id": "725771821376-bbvomtlepciri7u6mbn9l894cbpll2h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkDSkurGjTRKfrKWeVBEQa42c2-e5ivTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725771821376-bbvomtlepciri7u6mbn9l894cbpll2h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725771821376:android:fec142c8963ad013",
+        "android_client_info": {
+          "package_name": "com.pdfmaker.erum.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725771821376-bdfevlvllvbrvie5b3f1hsjab8sie1r9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pdfmaker.erum.android",
+            "certificate_hash": "3cfcd0620eda294d91a79f9acac692b58a132d47"
+          }
+        },
+        {
+          "client_id": "725771821376-bbvomtlepciri7u6mbn9l894cbpll2h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkDSkurGjTRKfrKWeVBEQa42c2-e5ivTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725771821376-bbvomtlepciri7u6mbn9l894cbpll2h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725771821376:android:4e098192fffa89de",
+        "android_client_info": {
+          "package_name": "com.shoppingandsocialapps.erum.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725771821376-bbvomtlepciri7u6mbn9l894cbpll2h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkDSkurGjTRKfrKWeVBEQa42c2-e5ivTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725771821376-bbvomtlepciri7u6mbn9l894cbpll2h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
